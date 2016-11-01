@@ -2,7 +2,7 @@
 
 source /Users/gaetano/.bashrc
 source /Users/gaetano/.profile
-export PUSHBULLET_KEY="o.e5JULHCnvqxodwzTCO2jlgR8poKii4MM"
+
 
 location=""
 status=""
